@@ -153,6 +153,7 @@ header .navbar {
 	color: #f20101;
 	font-weight: 700;
   border-bottom: 5px solid #f00;
+  font-size: 90%;
 }
 
 .overlay {
