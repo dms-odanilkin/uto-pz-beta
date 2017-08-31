@@ -756,3 +756,7 @@ a.navbar-brand:hover img {
 #gallery p {
   padding: 0 5px;
 }
+.single-team img{ 
+border: 1px solid red;
+
+}
