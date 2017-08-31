@@ -736,3 +736,7 @@ footer {
 .footer-social i:hover {
 	color: #000000;
 }
+
+.single-team img{
+border: 1px solid red;
+}
